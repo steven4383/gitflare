@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168609689762",
+    "project_id": "gitflare",
+    "storage_bucket": "gitflare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168609689762:android:b49e81fd90b736a470a7fb",
+        "android_client_info": {
+          "package_name": "com.example.gitflare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdPGhVR_ivgUFPzNiw2hLpaB_4-tBK6G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
