@@ -1,6 +1,5 @@
 import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
-import 'package:gitflare/controller/home_controller.dart';
 import 'package:gitflare/controller/login_contoller.dart';
 import 'package:gitflare/screens/home_screen.dart';
 import 'package:gitflare/screens/login_screen.dart';

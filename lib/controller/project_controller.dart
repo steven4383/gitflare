@@ -35,7 +35,6 @@ class RepoDetailsController extends GetxController {
         throw Exception('Failed to load repo details');
       }
     } catch (e) {
-      ;
       log('Error fetching repo details: $e');
     } finally {
       isLoading.value = false;
